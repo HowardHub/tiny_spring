@@ -1,7 +1,7 @@
 # my_spring
 动手写一个自己的spring，包含了ioc和aop
 
-# 改项目在IDEA中的正确打开方式
+# 该项目在IDEA中的正确打开方式
 1.在IDEA上创建一个hello,worldjava项目
 2.把本项目中的config、lib、src复制到新创建的项目下
 3.在IDEA中，右键config目录，选中Mark Directory As,在选择Resources Root
